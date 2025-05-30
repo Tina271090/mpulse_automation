@@ -1,0 +1,22 @@
+{
+  "name": "mpulse_automation",
+  "version": "1.0.0",
+  "description": "Tina's GIT Repository...!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tina271090/mpulse_automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tina271090/mpulse_automation/issues"
+  },
+  "homepage": "https://github.com/Tina271090/mpulse_automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.27"
+  }
+}
